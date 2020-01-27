@@ -24,7 +24,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 keyring==21.1.0
 MarkupSafe==1.1.1
-mercurial==3.7.3
+mercurial==4.1.3
 pathlib2==2.3.5
 powerline-status==2.3
 psutil==3.4.2
