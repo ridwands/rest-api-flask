@@ -17,14 +17,12 @@ Flask-Login==0.4.1
 Flask-MySQL==1.5.1
 Flask-Session==0.3.1
 Flask-SQLAlchemy==2.4.1
-gunicorn==19.4.5
 idna==2.8
 importlib-metadata==1.4.0
 itsdangerous==1.1.0
 Jinja2==2.10.3
 keyring==21.1.0
 MarkupSafe==1.1.1
-mercurial==3.7.3
 pathlib2==2.3.5
 powerline-status==2.3
 psutil==3.4.2
